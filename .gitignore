@@ -1,1 +1,4 @@
-*.jpg
+.jpg
+
+stripped-test/
+orig_earth_art_full/
