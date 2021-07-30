@@ -1,6 +1,6 @@
-.jpg
+*.jpg
 
 bizcard_art_full
-stripped-test/
+stripped_test/
 orig_earth_art_full/
 hard_copy_ex/
